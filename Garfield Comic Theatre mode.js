@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name          Garfield Comic Theatre mode
-// @namespace     http://userstyles.org
+// @namespace     https://github.com/kymotsujason/garfield-comic-theatre-userscript
 // @description	  Remove everything except comic strip + black background, super messy code though
 // @author        kymotsujason
-// @homepage      https://userstyles.org/
+// @homepage      https://github.com/kymotsujason/garfield-comic-theatre-userscript
 // @include       http://garfield.com/comic/*
 // @include       https://garfield.com/comic/*
 // @include       http://*.garfield.com/comic/*
